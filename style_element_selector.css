@@ -1,0 +1,14 @@
+/* Targets ONLY h1 elements */
+h1 {
+  color: #ff5722; /* Vibrant Orange Text */
+  border-bottom: 3px solid #ff5722; /* Adds an orange line under the heading */
+  padding-bottom: 10px;
+}
+
+/* Targets ONLY p elements */
+p {
+  color: #4caf50; /* Green Text */
+  font-size: 18px; /* Makes the paragraph text a bit larger */
+  background-color: #e8f5e9; /* Light green background box */
+  padding: 15px;
+}
